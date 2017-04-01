@@ -1,0 +1,7 @@
+ <! DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body>
+	<hl>Naglówek 1</hl>
+	
